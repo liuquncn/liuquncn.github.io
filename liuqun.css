@@ -1,0 +1,40 @@
+body 
+{
+	margin-left:auto; 
+	margin-right:auto; 
+	width:1000px;
+}
+#header
+{
+	background-color:#cfefff;
+	text-align:center;
+	font-size:40px;
+	padding:20px;
+}
+#photo
+{
+	width:200px; 
+	/*height:270px;*/
+	margin-left:145px;
+	float:right;
+}
+.line
+{
+}
+.attr
+{
+	width:130px;
+	margin:5px;
+	text-align:right;
+	ling-hight:100%;
+}
+.value
+{
+	margin-left:150px;
+	width:800px;
+	ling-hight:100%;
+}
+.value ul
+{
+	margin-left:-20px;
+}
