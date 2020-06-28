@@ -1,0 +1,18 @@
+body
+{
+	margin:5px;
+}
+
+table,tr,td,th
+{
+	border:1px solid;
+	margin-left:10px;
+}
+td,th
+{
+	padding:6px;
+}
+th 
+{
+	background-color: lightyellow;
+}

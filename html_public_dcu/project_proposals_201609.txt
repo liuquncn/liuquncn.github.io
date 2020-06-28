@@ -1,0 +1,35 @@
+Project Ideas
+=============
+
+Master Student Practicum
+------------------------
+
+  Automatic Transliteration
+
+    Please implement an automatic transliteration system which can transliterate a proper name from one language to another language which use a different writing system, for example, from Chinese or Arabic to English.  First, you should collect parallel data for training.  Then you should train a system to implement the transliteration.  Finally you should evaluate the precision of the transliteration.
+
+  Topic-oriented Question Answering (QA)
+
+    Select a specific topic and build a question answering system on it.  
+
+    You can select any topic you are interested. Some types of the topics are:
+	    * Spreadsheet: Given a spreadsheet, the QA system can answer questions about the spreadsheet.
+	    * Wikipedia pages: Given a Wikipedia page, the QA system can answer questions about the information given by this page.
+	    * Novels: Given a novel, the QA system can answer questions about the novel which may related to the characters, the plots, the places, etc.
+
+    For example, given a spreadsheet of the students' name, subjects and marks, the QA system may answer the questions like:
+	    * "Hi I am John Cathey, may I ask for my mark for CA186?"
+	    * "I'd like to know how many students obtained marks higher than 60 in Python Programming."
+	    * "Does Mary Kay take the module Data Analytics?"
+
+Third/Forth Year Project
+------------------------
+
+  Bag-of-Words Game
+
+    Given a bag of words (a word can occur more than once in the bag), the user is asked to find the most possible sentence which is exactly composed by the words in the bag.  Every word in the bag should be used exactly the same times as it occurs in the bag, and no additional word can be used.
+
+  Collect and Memorize
+
+  	A user can collect any pieces of information (words, idioms, pictures, etc.), save it in the server and then will be reminded from time to time until he/she has memorized it.
+

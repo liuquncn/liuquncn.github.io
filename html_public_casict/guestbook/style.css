@@ -1,0 +1,15 @@
+body {
+	FONT-SIZE: 9pt
+}
+td {
+	FONT-SIZE: 9pt
+}
+A:link {
+	COLOR: black; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: black; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: blue; TEXT-DECORATION: none
+}

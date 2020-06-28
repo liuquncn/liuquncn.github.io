@@ -1,0 +1,50 @@
+Project Ideas
+=============
+
+Master Student Practicum
+------------------------
+
+  Automatic Transliteration
+
+    Please implement an automatic transliteration system which can transliterate a proper name from one language to an non-European language which use a non-Latin writing system, for example, from Chinese, Japanese or Arabic to English.  First, you should collect parallel data for training.  Then you should train a system to implement the transliteration.  Finally you should evaluate the precision of the transliteration.  
+
+  Human Network Mining and Visualisation
+
+    Given a collection of text, try to identify all the human names in it and discover their relations, and demonstrate this human network with a graph.  
+
+  Topic-oriented Question Answering (QA)
+
+    Select a specific topic and build a question answering system on it.  
+
+    You can select any topic you are interested. Some types of the topics are:
+	    * Spreadsheet: Given a spreadsheet, the QA system can answer questions about the spreadsheet.
+	    * Wikipedia pages: Given a Wikipedia page, the QA system can answer questions about the information given by this page.
+	    * Novels: Given a novel, the QA system can answer questions about the novel which may related to the characters, the plots, the places, etc.
+
+    For example, given a spreadsheet of the students' name, subjects and marks, the QA system may answer the questions like:
+	    * "Hi I am John Cathey, may I ask for my mark for CA186?"
+	    * "I'd like to know how many students obtained marks higher than 60 in Python Programming."
+	    * "Does Mary Kay take the module Data Analytics?"
+
+Forth Year Project
+------------------------
+
+  Bag-of-Words Game
+
+    Given a bag of words (multiple occurrence of a word is allowed), the user is asked to find the most possible sentence which is exactly composed by the words in the bag.  Every word in the bag should be used exactly the same times as it occurs in the bag, and no additional word can be used.  The system should give a score between 0-100 by measuring the correctness of the sentence.
+
+  Memorisation by Repetition 
+
+  	By using this system, a user can collect any pieces of texts (words, idioms, etc.) or pictures (faces, buildings, etc.), save them and then be reminded from time to time until he/she has memorised them.
+
+  Word Cloud Generation
+
+    Generate a word cloud given a collection text.  
+    Provide multiple options for customization, including but not limited to:
+      * Number of items
+      * Font/Size
+      * Directions
+      * Colors
+      * Words/Phrases
+      * Shape of the cloude
+

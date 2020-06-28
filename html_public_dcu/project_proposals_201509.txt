@@ -1,0 +1,21 @@
+Project Proposals
+=================
+
+Master Student Practicum
+------------------------
+
+  Question Answering for Database
+
+    Given a database which contains at least three tables, please build a system which can answer natural language questions for the database.  For example, there is a database with three tables which contain information of students, modules and the module selection of each students.  The system should be able answer questions like: "How many students select modules which is taught by John Smith?", "What is the average marks of all modules for 4th year female students?"
+
+Third/Forth Year Project
+------------------------
+
+  Automatic Transliteration
+
+    Please implement an automatic transliteration system which can transliterate a proper name from one language to another language which use a different writing system, for example, from Chinese or Arabic to English.  First, you should collect parallel data for training.  Then you should train a system to implement the transliteration.  Finally you should evaluate the precision of the transliteration.
+
+
+  Sentence Reconstruction from a Bag of Words
+
+    Given a bag of words (a word can occur more than once in the bag), please find the most possible sentence which is exactly composed by the words in the bag.  Every word in the bag should be used exactly the same times as it occurs in the bag, and no additional word can be used.

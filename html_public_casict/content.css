@@ -1,0 +1,32 @@
+body
+{
+	background-color:#cfefff;
+	font-family:Arial;
+	font-size:18px;
+	font-weight:bold;
+}
+div
+{
+	margin-top:8px;
+	margin-bottom:8px;
+}
+div.name
+{
+	text-align:center;
+	font-size:24px;
+	padding:20px;
+	background-color:#efef80;
+}
+div.language
+{
+	text-align: right;
+}
+div.topmenu
+{
+	text-decoration:underline;
+	margin-left:8px; 
+}
+div.submenu 
+{
+	margin-left:40px; 
+}
