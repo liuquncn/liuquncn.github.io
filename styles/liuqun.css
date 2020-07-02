@@ -39,4 +39,6 @@ body
 .value ul
 {
 	margin-left:-20px;
+	margin-top:5px;/**/
+	margin-bottom:10px;
 }
