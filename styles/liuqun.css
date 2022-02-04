@@ -18,7 +18,7 @@ html, body
 }
 .content {
     flex: 5;
-    overflow: scroll;
+    overflow: auto;
 }
 #header
 {
