@@ -37,16 +37,29 @@ html, body
 .line
 {
 }
-.attr
+.attr-en
 {
 	width:130px;
 	margin:5px;
 	text-align:right;
 	ling-hight:100%;
 }
-.value
+.attr-zh
+{
+	width:100px;
+	margin:5px;
+	text-align:right;
+	ling-hight:100%;
+}
+.value-en
 {
 	margin-left:150px;
+	/*width:800px;*/
+	ling-hight:100%;
+}
+.value-zh
+{
+	margin-left:120px;
 	/*width:800px;*/
 	ling-hight:100%;
 }
