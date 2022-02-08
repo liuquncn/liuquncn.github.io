@@ -63,7 +63,13 @@ html, body
 	/*width:800px;*/
 	ling-hight:100%;
 }
-.value ul
+.value-en ul
+{
+	margin-left:-20px;
+	margin-top:5px;/**/
+	margin-bottom:10px;
+}
+.value-zh ul
 {
 	margin-left:-20px;
 	margin-top:5px;/**/
