@@ -2,7 +2,7 @@ html, body
 {
 	margin-left:auto; 
 	margin-right:auto; 
-	width:1000px;
+	width:1080px;
 	font-family:times;
 	font-size:17px;
     height:100%;
@@ -31,7 +31,7 @@ html, body
 {
 	width:160px; 
 	/*height:270px;*/
-	margin-left:145px;
+	/*margin-left:145px;*/
 	float:right;
 }
 .line
@@ -47,7 +47,7 @@ html, body
 .value
 {
 	margin-left:150px;
-	width:800px;
+	/*width:800px;*/
 	ling-hight:100%;
 }
 .value ul
